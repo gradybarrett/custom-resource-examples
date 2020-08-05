@@ -1,0 +1,19 @@
+{
+  "name": "cdk-cr-issue-use-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base-custom-resource.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.forge.lmig.com:7999/~n0237835/cdk-cr-issue-use-case.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@aws-cdk/core": "^1.55.0",
+    "lodash": "^4.17.19"
+  }
+}
